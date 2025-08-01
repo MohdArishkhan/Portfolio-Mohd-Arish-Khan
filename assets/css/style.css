@@ -963,6 +963,7 @@ header .navbar ul li a:hover {
   background: #fff;
   border-radius: 1.5rem;
   margin: 2rem 1rem;
+  /* margin-left: 0; */
   box-shadow: 0 5px 10px rgba(0, 0, 0, 0.15);
 }
 .contact .container .content {
@@ -1091,12 +1092,13 @@ form .button-area {
 @media (max-width: 900px) {
   .contact {
     min-height: 55vh;
-  }
-  .contact .container {
-    margin: 3rem 0 2rem 0;
+    display: flex;
+    justify-content: start;
+    flex-direction: column;
+    
   }
   .contact .container .content {
-    padding: 18px 12px;
+    padding: 18px 8px;
   }
   .contact .content .image-box {
     display: none;
@@ -1106,6 +1108,32 @@ form .button-area {
     margin-right: 2rem;
   }
 }
+@media (max-width: 450px) {
+  .contact-spacing{
+    margin-left: 1.5rem;
+  }
+  .contact {
+    min-height: 35vh;
+    display: flex;
+    justify-content: start;
+    flex-direction: column;
+    
+  }
+  #contact .container{
+    margin-right: 102px;
+  }
+  .contact .container .content {
+    padding: 18px 8px;
+  }
+  .contact .content .image-box {
+    display: none;
+  }
+  .contact .content form {
+    width: 100%;
+    margin-right: 2rem;
+  }
+}
+
 /* contact section media queries ends */
 /* contact section ends */
 
