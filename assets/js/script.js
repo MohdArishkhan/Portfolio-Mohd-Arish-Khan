@@ -38,20 +38,22 @@ $(document).ready(function () {
     });
 
     // <!-- emailjs to mail contact form data -->
-    $("#contact-form").submit(function (event) {
-        emailjs.init("rTwqIc6f-4XRkXdIK");
+   $("#contact-form").submit(function (event) {
+    event.preventDefault();
 
-        emailjs.sendForm('service_iq8akb8', 'template_7w0995l', '#contact-form')
-            .then(function (response) {
-                console.log('SUCCESS!', response.status, response.text);
-                document.getElementById("contact-form").reset();
-                alert("Form Submitted Successfully");
-            }, function (error) {
-                console.log('FAILED...', error);
-                alert("Form Submission Failed! Try Again");
-            });
-        event.preventDefault();
-    });
+    emailjs.init("rTwqIc6f-4XRkXdIK");
+
+    emailjs.sendForm('service_grk8rlw', 'template_7w0995l', '#contact-form')
+        .then(function (response) {
+            console.log('SUCCESS!', response.status, response.text);
+            document.getElementById("contact-form").reset();
+            alert("Form Submitted Successfully");
+        })
+        .catch(function (error) {
+            console.error('❌ EmailJS Error:', error); // <- This shows full error
+            alert("Form Submission Failed! Check console for details.");
+        });
+});
     // <!-- emailjs to mail contact form data -->
 
 });
