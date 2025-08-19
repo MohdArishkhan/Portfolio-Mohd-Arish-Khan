@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Twitter Clone",
+    "desc": "Developed a full-stack web application using the MERN stack and Enabled features of following/unfollow , deleting/liking/unliking posts .",
+    "image": "twitterclone.png",
+    "category": "mern",
+    "links": {
+      "view": "https://twitter-w7ro.onrender.com/login",
+      "code": "https://github.com/MohdArishkhan/Twitter-Clone-App"
+    }
+  },
+  {
+    "name": "E-commerce Website",
+    "desc": "Full-Stack E-commerece website using mern with Admin Dashboard and Paytm Payment Gateway. MERN Stack tech, ready to use for business.",
+    "image": "onecart.png",
+    "category": "mern",
+    "links": {
+      "view": "https://one-cart-3.onrender.com",
+      "code": "https://github.com/MohdArishkhan/One-Cart"
+    }
+  },
+  {
+    "name": "Amazon-Clone",
+    "desc": "Amazon clone using HTML and CSS, replicating core layout components such as the header, search bar, product grid, and footer.",
+    "image": "amazonclone2.png",
+    "category": "basicweb",
+    "links": {
+      "view": "https://amazon-clone-1-pied.vercel.app/",
+      "code": "https://github.com/MohdArishkhan/Amazon-Clone"
+    }
+  },
+  {
+    "name": "Spotify-Clone",
+    "desc": "Full-Stack project dashboard which is collection of projects built on the React library.",
+    "image": "spotifyclone.png",
+    "category": "basicweb",
+    "links": {
+      "view": "coming soon...",
+      "code": "https://github.com/MohdArishkhan/spotify-clone"
+    }
+  },
+  {
+    "name": "Notes-App",
+    "desc": "Notes application using the MERN stack, allowing users to register, log in, and securely create, edit, update, or delete personal notes.",
+    "image": "notesapp1.png",
+    "category": "mern",
+    "links": {
+      "view": "https://my-notes-app-34sk.onrender.com",
+      "code": "https://github.com/MohdArishkhan/My-notes-app"
+    }
+  },
+  {
+    "name": "ScoreKeeper-Game",
+    "desc": "game using HTML, CSS, and JavaScript, enabling players to track and update scores interactively with a clean and intuitive interface.",
+    "image": "score.png",
+    "category": "basicweb",
+    "links": {
+      "view": "https://jade-genie-c0d358.netlify.app/",
+      "code": "https://github.com/MohdArishkhan/project-scorekeeper"
+    }
+  }
+]
