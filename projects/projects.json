@@ -1,7 +1,27 @@
 [
   {
+    "name": "TraceSync: Real-Time Collaborative IDE",
+    "desc": "Architected a scalable collaborative IDE featuring real-time code synchronization using Socket.IO and Redis Pub/Sub for low-latency presence updates. Built a multi-language execution pipeline (C++, Python, Java, JS) with RabbitMQ, integrated Google Generative AI for code review, and designed a secure JWT-based authentication system.",
+    "image": "tracesync.png",
+    "category": "fullstack",
+    "links": {
+      "view": "coming soon...",
+      "code": "https://github.com/MohdArishkhan"
+    }
+  },
+  {
+    "name": "Social Media Platform",
+    "desc": "Full-stack social media application with RESTful API architecture. Engineered optimized backend services for authentication, hierarchical follow graphs, and post interactions for 200+ test users. Implemented robust MongoDB data models with horizontal scaling support for profile management and dynamic feeds.",
+    "image": "socialmedia.png",
+    "category": "mern",
+    "links": {
+      "view": "coming soon...",
+      "code": "https://github.com/MohdArishkhan"
+    }
+  },
+  {
     "name": "Twitter Clone",
-    "desc": "Developed a full-stack web application using the MERN stack and Enabled features of following/unfollow , deleting/liking/unliking posts .",
+    "desc": "Developed a full-stack web application using the MERN stack with features for following/unfollowing, deleting/liking/unliking posts.",
     "image": "twitterclone.png",
     "category": "mern",
     "links": {
@@ -11,7 +31,7 @@
   },
   {
     "name": "E-commerce Website",
-    "desc": "Full-Stack E-commerece website using mern with Admin Dashboard and Paytm Payment Gateway. MERN Stack tech, ready to use for business.",
+    "desc": "Full-Stack E-commerce website using MERN with Admin Dashboard and Paytm Payment Gateway. MERN Stack tech, ready to use for business.",
     "image": "onecart.png",
     "category": "mern",
     "links": {
@@ -30,16 +50,6 @@
     }
   },
   {
-    "name": "Spotify-Clone",
-    "desc": "Full-Stack project dashboard which is collection of projects built on the React library.",
-    "image": "spotifyclone.png",
-    "category": "basicweb",
-    "links": {
-      "view": "coming soon...",
-      "code": "https://github.com/MohdArishkhan/spotify-clone"
-    }
-  },
-  {
     "name": "Notes-App",
     "desc": "Notes application using the MERN stack, allowing users to register, log in, and securely create, edit, update, or delete personal notes.",
     "image": "notesapp1.png",
@@ -47,16 +57,6 @@
     "links": {
       "view": "https://my-notes-app-34sk.onrender.com",
       "code": "https://github.com/MohdArishkhan/My-notes-app"
-    }
-  },
-  {
-    "name": "ScoreKeeper-Game",
-    "desc": "game using HTML, CSS, and JavaScript, enabling players to track and update scores interactively with a clean and intuitive interface.",
-    "image": "score.png",
-    "category": "basicweb",
-    "links": {
-      "view": "https://jade-genie-c0d358.netlify.app/",
-      "code": "https://github.com/MohdArishkhan/project-scorekeeper"
     }
   }
 ]

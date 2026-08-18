@@ -4,28 +4,32 @@
         "icon": "https://img.icons8.com/ios-filled/50/ffffff/book.png"
     },
     {
-        "name": "ReactJS",
-        "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"
+        "name": "OOP",
+        "icon": "https://img.icons8.com/color/48/000000/structure.png"
     },
     {
-        "name": "ExpressJS",
-        "icon": "https://img.icons8.com/fluency/48/000000/node-js.png"
+        "name": "DBMS",
+        "icon": "https://img.icons8.com/color/48/000000/database.png"
     },
     {
-        "name": "NodeJS",
-        "icon": "https://img.icons8.com/color/48/000000/nodejs.png"
+        "name": "Operating Systems",
+        "icon": "https://img.icons8.com/color/48/000000/laptop.png"
     },
     {
-        "name": "Firebase",
-        "icon": "https://img.icons8.com/color/48/000000/firebase.png"
+        "name": "C++",
+        "icon": "https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"
     },
     {
-        "name": "TailwindCSS",
-        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/48px-Tailwind_CSS_Logo.png"
+        "name": "Python",
+        "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
     },
     {
-        "name": "Bootstrap",
-        "icon": "https://img.icons8.com/color/48/000000/bootstrap.png"
+        "name": "JavaScript",
+        "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
+    },
+    {
+        "name": "TypeScript",
+        "icon": "https://img.icons8.com/color/48/000000/typescript.png"
     },
     {
         "name": "HTML5",
@@ -36,32 +40,84 @@
         "icon": "https://img.icons8.com/color/48/000000/css3.png"
     },
     {
-        "name": "JavaScript",
-        "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
+        "name": "ReactJS",
+        "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"
     },
     {
-        "name": "Java",
-        "icon": "https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"
+        "name": "Next.js",
+        "icon": "https://img.icons8.com/color/48/000000/nextjs.png"
     },
     {
-        "name": "Python",
-        "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
+        "name": "TailwindCSS",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/48px-Tailwind_CSS_Logo.png"
     },
     {
-        "name": "C++",
-        "icon": "https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"
+        "name": "Redux",
+        "icon": "https://img.icons8.com/color/48/000000/redux.png"
     },
     {
-        "name": "C",
-        "icon": "https://img.icons8.com/color/48/000000/c-programming.png"
+        "name": "Zustand",
+        "icon": "https://raw.githubusercontent.com/pmndrs/zustand/main/bear.png"
+    },
+    {
+        "name": "NodeJS",
+        "icon": "https://img.icons8.com/color/48/000000/nodejs.png"
+    },
+    {
+        "name": "ExpressJS",
+        "icon": "https://img.icons8.com/fluency/48/000000/node-js.png"
+    },
+    {
+        "name": "Socket.IO",
+        "icon": "https://img.icons8.com/color/48/000000/socket-io.png"
+    },
+    {
+        "name": "RabbitMQ",
+        "icon": "https://img.icons8.com/color/48/000000/rabbitmq.png"
     },
     {
         "name": "MongoDB",
         "icon": "https://img.icons8.com/color/48/000000/mongodb.png"
     },
     {
+        "name": "Mongoose",
+        "icon": "https://img.icons8.com/color/48/000000/mongodb.png"
+    },
+    {
         "name": "MySQL",
         "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png"
+    },
+    {
+        "name": "PostgreSQL",
+        "icon": "https://img.icons8.com/color/48/000000/postgreesql.png"
+    },
+    {
+        "name": "Redis",
+        "icon": "https://img.icons8.com/color/48/000000/redis.png"
+    },
+    {
+        "name": "Supabase",
+        "icon": "https://img.icons8.com/color/48/000000/supabase.png"
+    },
+    {
+        "name": "Google Generative AI",
+        "icon": "https://img.icons8.com/color/48/000000/google-logo.png"
+    },
+    {
+        "name": "Git",
+        "icon": "https://img.icons8.com/color/48/000000/git.png"
+    },
+    {
+        "name": "GitHub",
+        "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
+    },
+    {
+        "name": "Postman",
+        "icon": "https://img.icons8.com/color/48/000000/postman.png"
+    },
+    {
+        "name": "VS Code",
+        "icon": "https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"
     },
     {
         "name": "Netlify",
@@ -74,13 +130,5 @@
     {
         "name": "Render",
         "icon": "assets/images/skills/Render.png"
-    },
-    {
-        "name": "Git",
-        "icon": "https://img.icons8.com/color/48/000000/git.png"
-    },
-    {
-        "name": "GitHub",
-        "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
     }
 ]
